@@ -12,7 +12,7 @@ function Footer() {
   return (
     
     <StyledFooterdiv>
-      <p>copyright@djoni</p>
+      <p>copyright@hej hej</p>
       <p>phone: 09e0910e</p>
       <p>mail: daodad@hotmail.nej</p>
     </StyledFooterdiv>
